@@ -35,7 +35,7 @@ def process_line(line: str) -> tuple[str, str, str, str, str]:
     pro2 = ''
     if len(target_words) > 2:
         pro2 = target_words[2][1:-1]
-    line = re.sub(r'[0-9]|[0-9] |\n|\[|\]', '', line)
+    line = re.sub(r'[0-9] *|\n|\[|\]', '', line)
     return (line, right_ref, wrong_ref, pro1, pro2)
 
 def to_df(lines: [str]) -> pd.DataFrame:
