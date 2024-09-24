@@ -1,0 +1,247 @@
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error: Bobcat failed to parse 'The nurse called the mechanic and told him which medicine to take.'.
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error: Bobcat failed to parse "The janitor stopped the nurse because she needed to check everyone's identity.".
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Bobcat failed to parse 'The nurse called the mechanic and told her which medicine to take.'.
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=n @ n.r @ n @ s.r @ n.r.r @ n.r @ s @ s.l @ n @ n.r @ s @ s.l @ n.l @ n) does not compose with diagram 1 (dom=n @ p.r @ s.r @ n.r.r @ n.r @ s @ s.l @ n @ n.r @ s @ s.l @ n.l @ n)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=n.r @ s @ p.l @ n.r @ p @ n.r @ n.r.r @ n.r @ n) does not compose with diagram 1 (dom=n.r @ s @ p.l @ n.r @ p @ s.r @ n.r.r @ n.r @ n)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=n.r @ s @ p.l @ n.r @ p @ n.r @ n.r.r @ n.r @ n) does not compose with diagram 1 (dom=n.r @ s @ p.l @ n.r @ p @ s.r @ n.r.r @ n.r @ n)
+Error: Diagram 0 (cod=) does not compose with diagram 1 (dom=qubit)
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error: Diagram 0 (cod=n @ n.r @ n @ s.r @ n.r.r @ n.r @ s @ s.l @ n @ n.r @ s @ s.l @ n.l @ n) does not compose with diagram 1 (dom=n @ p.r @ s.r @ n.r.r @ n.r @ s @ s.l @ n @ n.r @ s @ s.l @ n.l @ n)
+Error:
+Error:
+Error:
+Error: Bobcat failed to parse "The janitor stopped the nurse because he needed to check everyone's identity.".
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
