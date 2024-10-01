@@ -48,10 +48,11 @@ def to_df(lines: [str]) -> pd.DataFrame:
 
 if __name__ == '__main__':
     os.chdir(os.getcwd() + '/wino/data')
-    paths = glob.glob("*.test")
+    paths = glob.glob("*.dev")
     lines = []
     for path in paths:
         lines += get_lines(path)
     df = to_df(lines)
+    df = df.sample(frac=1).reset_index(drop=True)
     print(df)
-    df.to_pickle('test_data.pkl')
+    df.to_pickle('train_sentences.pkl')
